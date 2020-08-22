@@ -2300,7 +2300,7 @@ ul.arrow li:before {
 /* Testimonial */
 .ts-testimonial-content {
   position: relative;
-  padding: 30px 30px 15px 30px;
+  padding: 10px 10px 10px 10px;
   border-width: 1px;
   border-style: solid;
   border-color: #e7e7e7;
@@ -3034,7 +3034,7 @@ a.close-styler {
   }
   /* Testimonial */
   .testimonial-content {
-    padding: 0 30px;
+    padding: 0 10px;
   }
   /* Recent post */
   .recent-post {
