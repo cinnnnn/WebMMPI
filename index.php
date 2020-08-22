@@ -999,14 +999,14 @@
 				<div class="col-md-12 text-center">
 					<ul class="footer-social unstyled">
 					<li>
-						<a title="Twitter" href="#">
-						<span class="icon-pentagon wow bounceIn"><i class="fa fa-twitter"></i></span>
+						<a title="Twitter" href="https://instagram.com/grupodudu" target="_blank">
+							<span class="icon-pentagon wow bounceIn"><i class="fa fa-instagram"></i></span>
 						</a>
-						<a title="Facebook" href="#">
-						<span class="icon-pentagon wow bounceIn"><i class="fa fa-facebook"></i></span>
+						<a title="Facebook" href="https://www.facebook.com/Grupo-Dudu-587354445238243" target="_blank">
+							<span class="icon-pentagon wow bounceIn"><i class="fa fa-facebook"></i></span>
 						</a>
-						<a title="Skype" href="#">
-						<span class="icon-pentagon wow bounceIn"><i class="fa fa-skype"></i></span>
+						<a title="Skype" href="https://www.youtube.com/channel/UCeE7qiTfKA6aDBPOx2T5WLg" target="_blank">
+							<span class="icon-pentagon wow bounceIn"><i class="fa fa-youtube"></i></span>
 						</a>
 					</li>
 					</ul>
