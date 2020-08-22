@@ -779,55 +779,9 @@
 
 		<!-- Testimonial start-->
 		<section class="testimonial parallax parallax2">
-			<div class="parallax-overlay"></div>
-			<div class="container">
-				<div class="row">
-					<div id="testimonial-carousel" class="owl-carousel owl-theme text-center testimonial-slide">
-						<div class="item">
-							<div class="testimonial-thumb">
-								<img src="images/team/testimonial1.jpg" alt="testimonial">
-							</div>
-							<div class="testimonial-content">
-								<p class="testimonial-text">
-									Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still
-									in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on
-									purpose. Lorem Ipsum is that it as opposed to using.
-								</p>
-								<h3 class="name">Sarah Arevik<span>Chief Executive</span></h3>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimonial-thumb">
-								<img src="images/team/testimonial2.jpg" alt="testimonial">
-							</div>
-							<div class="testimonial-content">
-								<p class="testimonial-text">
-									Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still
-									in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on
-									purpose. Lorem Ipsum is that it as opposed to using.
-								</p>
-								<h3 class="name">Narek Bedros<span>Sr. Manager</span></h3>
-							</div>
-						</div>
-						<div class="item">
-							<div class="testimonial-thumb">
-								<img src="images/team/testimonial3.jpg" alt="testimonial">
-							</div>
-							<div class="testimonial-content">
-								<p class="testimonial-text">
-									Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still
-									in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on
-									purpose. Lorem Ipsum is that it as opposed to using.
-								</p>
-								<h3 class="name">Taline Lucine<span>Sales Manager</span></h3>
-							</div>
-						</div>
-					</div>
-					<!--/ Testimonial carousel end-->
-				</div>
-				<!--/ Row end-->
+			<div style="width: 90%; margin: 0 auto;">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3734.7763120902964!2d-103.43411098467226!3d20.597190607745784!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428ac924170fbbf%3A0x249904e725bd2d47!2sCalz.%20Jos%C3%A9%20Guadalupe%20Gallo%208592%2C%20El%20Campanario%2C%2045609%20Zapopan%2C%20Jal.!5e0!3m2!1ses!2smx!4v1598071962258!5m2!1ses!2smx" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 			</div>
-			<!--/  Container end-->
 		</section>
 		<!--/ Testimonial end-->
 
