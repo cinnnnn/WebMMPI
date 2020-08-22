@@ -3,8 +3,8 @@
 
 <head>
 	<meta charset="utf-8">
-	<title>BizCraft - Responsive Html5 Template</title>
-
+	<title>MM Proyectos Industriales</title>
+	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 	<!-- mobile responsive meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
