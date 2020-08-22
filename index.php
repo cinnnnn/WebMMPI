@@ -213,7 +213,7 @@
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-globe-americas"></i></span>
 							<h3>EXPORTACION</h3>
-							<p>We design beautiful modern engaging websites that always latest responsive technologies.</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
 						</div>
 					</div>
 
@@ -838,7 +838,7 @@
 				<div class="row wow fadeInLeft">
 					<div id="client-carousel" class="col-sm-12 owl-carousel owl-theme text-center client-carousel">
 						<figure class="m-0 item client_logo">
-							<a href="#">
+							<a href="http://dudu.mx/">
 								<img src="images/clients/client1.png" alt="client">
 							</a>
 						</figure>
