@@ -2866,8 +2866,8 @@ iframe {
 .style-switch-wrapper {
   position: fixed;
   top: 100px;
-  right: -250px;
-  width: 250px;
+  right: -150px;
+  width: 150px;
   height: auto;
   background-color: rgba(0, 0, 0, 0.75);
   border-bottom-right-radius: 4px;
@@ -2889,7 +2889,7 @@ iframe {
 .style-switch-button {
   position: absolute;
   top: 0;
-  right: 250px;
+  right: 150px;
   width: 50px;
   height: 50px;
   background-color: rgba(0, 0, 0, 0.75);
@@ -2932,27 +2932,15 @@ a.close-styler {
 }
 
 .style-switch-wrapper #preset1 {
-  background-color: #49a2e7;
+  background-color: #263550;
 }
 
 .style-switch-wrapper #preset2 {
-  background-color: #81c83c;
+  background-color: #3076b0;
 }
 
 .style-switch-wrapper #preset3 {
-  background-color: #ee3b24;
-}
-
-.style-switch-wrapper #preset4 {
-  background-color: #ffc400;
-}
-
-.style-switch-wrapper #preset5 {
-  background-color: #334F96;
-}
-
-.style-switch-wrapper #preset6 {
-  background-color: #8C42BA;
+  background-color: #3e4551;
 }
 
 /* Responsive styles

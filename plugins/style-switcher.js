@@ -13,17 +13,5 @@ jQuery(document).ready(function($) {
 			$("#style-switch").attr("href", "css/presets/preset3.css" );
 			return false;
 		});
-		$("#preset4" ).click(function(){
-			$("#style-switch").attr("href", "css/presets/preset4.css" );
-			return false;
-		});
-		$("#preset5" ).click(function(){
-			$("#style-switch").attr("href", "css/presets/preset5.css" );
-			return false;
-		});
-		$("#preset6" ).click(function(){
-			$("#style-switch").attr("href", "css/presets/preset6.css" );
-			return false;
-		});
 
 });
