@@ -985,20 +985,8 @@
 						<a title="Facebook" href="#">
 						<span class="icon-pentagon wow bounceIn"><i class="fa fa-facebook"></i></span>
 						</a>
-						<a title="Google+" href="#">
-						<span class="icon-pentagon wow bounceIn"><i class="fa fa-google-plus"></i></span>
-						</a>
-						<a title="linkedin" href="#">
-						<span class="icon-pentagon wow bounceIn"><i class="fa fa-linkedin"></i></span>
-						</a>
-						<a title="Pinterest" href="#">
-						<span class="icon-pentagon wow bounceIn"><i class="fa fa-pinterest"></i></span>
-						</a>
 						<a title="Skype" href="#">
 						<span class="icon-pentagon wow bounceIn"><i class="fa fa-skype"></i></span>
-						</a>
-						<a title="Dribble" href="#">
-						<span class="icon-pentagon wow bounceIn"><i class="fa fa-dribbble"></i></span>
 						</a>
 					</li>
 					</ul>
@@ -1008,8 +996,7 @@
 				<div class="row">
 				<div class="col-md-12 text-center">
 					<div class="copyright-info">
-					&copy; Copyright 2019 Themefisher. <span>Designed by <a
-						href="https://themefisher.com">Themefisher.com</a></span>
+					<p class="mb-0">Todos los derechos reservados © <?php echo date('Y');?>. Diseñado y desarrollado por <a href="mailto:hello@dudu.mx" class="text-red">Grupo Dudu </a>una división de <img src="images/logo-mmpi.png" style="width: 140px; margin-top: -5px;"></p>
 					</div>
 				</div>
 				</div>
