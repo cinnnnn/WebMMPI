@@ -857,7 +857,7 @@
 								<img src="images/clients/client4.png" alt="client">
 							</a>
 						</figure>
-						<figure class="m-0 item client_logo">
+						<!--<figure class="m-0 item client_logo">
 							<a href="#">
 								<img src="images/clients/client5.png" alt="client">
 							</a>
@@ -876,7 +876,7 @@
 							<a href="#">
 								<img src="images/clients/client8.png" alt="client">
 							</a>
-						</figure>
+						--></figure>
 					</div><!-- Owl carousel end -->
 				</div><!-- Main row end -->
 			</div>
