@@ -12,7 +12,7 @@
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
 	<!-- FontAwesome -->
-	<link rel="stylesheet" href="plugins/fontawesome/font-awesome.min.css">
+	<script src="https://kit.fontawesome.com/66918dfdbd.js" crossorigin="anonymous"></script>
 	<!-- Animation -->
 	<link rel="stylesheet" href="plugins/animate.css">
 	<!-- Prettyphoto -->
@@ -171,45 +171,68 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 heading">
-						<span class="title-icon float-left"><i class="fa fa-cogs"></i></span>
-						<h2 class="title">Service We Provide <span class="title-desc">A Quality Experience Team with 4 years
-								experience</span></h2>
+						<span class="title-icon float-left"><i class="fas fa-server"></i></span>
+						<h2 class="title">Divisiones y servicios <span class="title-desc">Tenemos todo lo que buscas</span></h2>
 					</div>
 				</div><!-- Title row end -->
 
 				<div class="row">
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".5s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fa fa-tachometer"></i></span>
-							<h3>Web Design</h3>
-							<p>High Life narwhal, banh mi PBR single-origin coffee Odd Future actually aliqua polaroid befor</p>
+							<span class="service-icon icon-pentagon"><i class="fas fa-home"></i></span>
+							<h3>ADEKUA</h3>
+							<p>Mantenimiento y remodelación profesional de inmuebles e instalaciones personalizadas.</p>
 						</div>
 					</div>
 					<!--/ End first service -->
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".8s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fa fa-android"></i></span>
-							<h3>Apps Development</h3>
-							<p>Food truck master cleanse mixtape minim Portland, cardigan stumptown chambray swag</p>
+							<span class="service-icon icon-pentagon"><i class="fas fa-shopping-cart"></i></span>
+							<h3>BETTER MARKET</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
 						</div>
 					</div>
 					<!--/ End Second service -->
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.1s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fa fa-shopping-cart"></i></span>
-							<h3>eCommerce Websites</h3>
-							<p>Neutra Thundercats craft beer, listicle meggings bicycle rights 90's XOXO beard cardiga</p>
+							<span class="service-icon icon-pentagon"><i class="fas fa-coins"></i></i></span>
+							<h3>COMERCIALIZA</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
 						</div>
 					</div>
 					<!--/ End Third service -->
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.4s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fa fa-lightbulb-o"></i></span>
-							<h3>Design for Startups</h3>
+							<span class="service-icon icon-pentagon"><i class="fas fa-hand-holding-usd"></i></i></span>
+							<h3>DUDU</h3>
+							<p>Todo lo que necesitas para hacer despegar a tu negocio solo aquí, en Dudu.</p>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.4s">
+						<div class="service-content text-center">
+							<span class="service-icon icon-pentagon"><i class="fas fa-globe-americas"></i></span>
+							<h3>EXPORTACION</h3>
 							<p>We design beautiful modern engaging websites that always latest responsive technologies.</p>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.4s">
+						<div class="service-content text-center">
+							<span class="service-icon icon-pentagon"><i class="fas fa-flag-usa"></i></span>
+							<h3>IMPORTACIÓN</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.4s">
+						<div class="service-content text-center">
+							<span class="service-icon icon-pentagon"><i class="fas fa-robot"></i></span>
+							<h3>BOTS AND MACHINE LEARNING</h3>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
 						</div>
 					</div>
 					<!--/ End 4th service -->
