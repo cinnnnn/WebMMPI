@@ -25,7 +25,7 @@
 	<!-- Flexslider -->
 	<link rel="stylesheet" href="plugins/cd-hero/cd-hero.css">
 	<!-- Style Swicther -->
-	<link id="style-switch" href="css/presets/preset3.css" media="screen" rel="stylesheet" type="text/css">
+	<link id="style-switch" href="css/presets/preset1.css" media="screen" rel="stylesheet" type="text/css">
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
      	<script src="plugins/html5shiv.js"></script>
@@ -47,13 +47,10 @@
 		<div class="style-switch-button">
 			<i class="fa fa-sliders"></i>
 		</div>
-		<h3>Style Options</h3>
+		<h3>Colores</h3>
 		<button id="preset1" class="btn btn-sm btn-primary"></button>
 		<button id="preset2" class="btn btn-sm btn-primary"></button>
 		<button id="preset3" class="btn btn-sm btn-primary"></button>
-		<button id="preset4" class="btn btn-sm btn-primary"></button>
-		<button id="preset5" class="btn btn-sm btn-primary"></button>
-		<button id="preset6" class="btn btn-sm btn-primary"></button>
 		<br/><br/>
 		<a class="btn btn-sm btn-primary close-styler float-right">Close X</a>
 	</div>

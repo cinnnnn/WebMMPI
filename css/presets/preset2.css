@@ -2,11 +2,11 @@
 ================================================== */
 
 a{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 a.read-more:hover{
-	color: #327cbc;
+	color: #3c94e2;
 }
 
 
@@ -14,60 +14,60 @@ a.read-more:hover{
 ================================================== */
 
 .btn.btn-primary{
-	border: 2px solid #81c83c;
+	border: 2px solid #3076b0;
 }
 
 .btn.btn-primary:hover{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .btn.btn-primary.solid{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 ul.circle li:before{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 ul.check-list li i{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 blockquote {
-	border-left: 5px solid #81c83c;
+	border-left: 5px solid #3076b0;
 }
 
 /* Common styles
 ================================================== */
 
 .heading:hover .title-icon{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 h2.entry-title a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 /* Icon pentagon */
 
 .icon-pentagon{
-	background: none repeat scroll 0 0 #81c83c;
+	background: none repeat scroll 0 0 #3076b0;
 }
 
 .icon-pentagon:before{
-	border-bottom: 10px solid #81c83c;
+	border-bottom: 10px solid #3076b0;
 }
 
 .icon-pentagon:after {
-	border-top: 10px solid #81c83c;
+	border-top: 10px solid #3076b0;
 }
 
 .service-icon:before {
-	border-bottom: 30px solid #81c83c;
+	border-bottom: 30px solid #3076b0;
 }
 
 .service-icon:after {
-	border-top: 30px solid #81c83c;
+	border-top: 30px solid #3076b0;
 }
 
 /* Carousel controller */
@@ -76,31 +76,31 @@ h2.entry-title a:hover{
 .ts-carousel-controller .right:hover,
 .owl-controls .owl-prev:hover, 
 .owl-controls .owl-next:hover{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 /* Input form */
 
 .form-control:focus{
-	border: 1px solid #81c83c !important;
+	border: 1px solid #3076b0 !important;
 }
 
 /* Flex Slider */
 
 .portfolio-slider .flex-direction-nav a:hover,
 .second-slider .flex-direction-nav a:hover {
-	background: #81c83c;
+	background: #3076b0;
 }
 
 /* Pagination */
 
 .pagination .page-link{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .pagination .page-item.active .page-link,.pagination .page-item:hover .page-link{
-	background: #81c83c;
-	border-color: #81c83c;
+	background: #3076b0;
+	border-color: #3076b0;
 }
 
 /* Header area
@@ -108,31 +108,31 @@ h2.entry-title a:hover{
 
 /*-- Header --*/
 .header{
-	border-top: 5px solid #81c83c;
+	border-top: 5px solid #3076b0;
 }
 
 .header-solid ul.navbar-nav > li:hover > a, .header-solid ul.navbar-nav > li.active > a {
-  color: #81c83c;
+  color: #3076b0;
 }
 
 /*-- Logo --*/
 
 .navbar-brand{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .navbar-toggler{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 /*-- Main navigation --*/
 
 .nav-item.active{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .nav-link:hover,.dropdown-item:hover{
-	color: #81c83c !important;
+	color: #3076b0 !important;
 }
 
 /* Header area - 2
@@ -141,7 +141,7 @@ h2.entry-title a:hover{
 /*-- Header bgnone fixed --*/
 
 .header-bgnone{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 
@@ -152,18 +152,18 @@ h2.entry-title a:hover{
 
 #main-slide .carousel-indicators li.active,
 #main-slide .carousel-indicators li:hover {
-    background-color: #81c83c;
+    background-color: #3076b0;
 }
 
 #main-slide .carousel-control i:hover{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 /* Image Block
 ================================================== */
 
 .image-block-content .feature-icon{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 
@@ -171,27 +171,27 @@ h2.entry-title a:hover{
 ================================================== */
 
 .isotope-nav ul li a{
-	border: 1px solid #81c83c;
+	border: 1px solid #3076b0;
 }
 
 .isotope-nav ul a.active, 
 .isotope-nav ul a:hover{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .isotope-nav ul a.active:after, 
 .isotope-nav ul a:hover:after{
-	border-color: #81c83c rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+	border-color: #3076b0 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
 }
 
 /* Feature box
 ================================================== */
 .feature-icon{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .feature-center-icon{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 /* About us
@@ -199,50 +199,50 @@ h2.entry-title a:hover{
 
 /* Featured Tab */
 .featured-tab .nav-link.active{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .featured-tab .nav-link.active::before{
-	border-left-color: #81c83c;
+	border-left-color: #3076b0;
 }
 
 .featured-tab .nav-link:hover{
-	background: #81c83c;
+	background: #3076b0;
 	color: #fff !important;
 }
 .featured-tab .nav-link:hover:before{
-	border-left-color: #81c83c;
+	border-left-color: #3076b0;
 }
 /* Pricing table
 ================================================== */
 
 .plan.featured .plan-price{
-	background: #81c83c;
+	background: #3076b0;
 }
 .plan.featured .plan-price:after{
-	border-top-color: #81c83c;
+	border-top-color: #3076b0;
 }
 
 /* Testimonial
 ================================================== */
 
 .testimonial-slide .testimonial-text:before{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .testimonial-slide .testimonial-text:after{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .testimonial-slide.owl-theme .owl-controls .owl-page.active span{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 /* Recent Post
 ================================================== */
 
 .post-img-overlay a:hover{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 
@@ -250,60 +250,60 @@ h2.entry-title a:hover{
 ================================================== */
 
 .copyright-info a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .footer2 .copyright-info a{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 #back-to-top .btn.btn-primary:hover{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .footer-about-us h4{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .footer-widget .latest-post-content h4 a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .subscribe button{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 /* Blog Item page
 ================================================== */
 
 .post-meta a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .author-url span a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .comments-counter a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .comments-list .comment-reply:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 /*-- Blog sidebar --*/
 
 .widget-tab .nav-tabs>li.active>a{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .widget-tab h4.entry-title a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .widget-tags ul > li a:hover{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 /* Landing page
@@ -311,76 +311,76 @@ h2.entry-title a:hover{
 
 .landing-header.header-bgnone ul.navbar-nav > li:hover > a, 
 .landing-header.header-bgnone ul.navbar-nav > li.active > a {
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .features-content .features-icon{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .landing_facts{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .landing-tab .nav-link.active i{
-	color:#81c83c;
+	color:#3076b0;
 }
 
 .landing-tab .nav-link::before{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .landing-tab .nav-link:hover i{
-	color: #81c83c !important;
+	color: #3076b0 !important;
 }
 
 .text-primary{
-	color: #81c83c !important;
+	color: #3076b0 !important;
 }
 
 .app-gallery.owl-theme .owl-controls .owl-page.active span{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .landing_page_clients{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 /* Misc */
 
 .title-border{
-	border-bottom: 2px solid #81c83c;
+	border-bottom: 2px solid #3076b0;
 }
 
 .post-title a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .portfolio-static-desc a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .client-carousel .item a:hover{
-	border: 1px solid #81c83c;
+	border: 1px solid #3076b0;
 }
 
 .footer ul li a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .call-to-action{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .blog-date{
-	background: #81c83c;
+	background: #3076b0;
 }
 
 .widget-categories ul.category-list  li a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
 .about-message ul li a:hover{
-	color: #81c83c;
+	color: #3076b0;
 }
 
