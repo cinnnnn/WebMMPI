@@ -854,7 +854,7 @@
 						<div class="col-md-4">
 							<div class="form-group">
 								<label>Número de contacto</label>
-								<input class="form-control" name="phone" placeholder="" type="email" required>
+								<input class="form-control" name="phone" placeholder="" type="text" required>
 							</div>
 						</div>
 						<div class="col-md-4">
