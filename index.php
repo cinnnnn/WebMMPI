@@ -58,7 +58,7 @@
 	<div class="body-inner">
 		<!-- Header start -->
 		<header id="header" class="fixed-top header" role="banner">
-			<a class="navbar-brand navbar-bg" href="index.php"><img class="img-fluid float-right" src="images/logo.png" alt="logo"></a>
+			<a style= "width: 300px; height: 80px;" class="navbar-brand navbar-bg" href="index.php"><img class="img-fluid float-center" style="width: 90%; height: 100%;" src="images/logo.png" alt="logo"></a>
 			<div class="container">
 				<nav class="navbar navbar-expand-lg navbar-dark">
 					<button class="navbar-toggler ml-auto border-0 rounded-0 text-white" type="button" data-toggle="collapse"
