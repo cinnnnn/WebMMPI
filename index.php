@@ -58,7 +58,7 @@
 	<div class="body-inner">
 		<!-- Header start -->
 		<header id="header" class="fixed-top header" role="banner">
-			<a class="navbar-brand navbar-bg" href="index.html"><img class="img-fluid float-right" src="images/logo.png" alt="logo"></a>
+			<a class="navbar-brand navbar-bg" href="index.php"><img class="img-fluid float-right" src="images/logo.png" alt="logo"></a>
 			<div class="container">
 				<nav class="navbar navbar-expand-lg navbar-dark">
 					<button class="navbar-toggler ml-auto border-0 rounded-0 text-white" type="button" data-toggle="collapse"
@@ -176,7 +176,7 @@
 				<div class="row">
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".5s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fas fa-home"></i></span>
+							<a href="http://adekua.mx" target="_blank"><span class="service-icon icon-pentagon"><i class="fas fa-home"></i></span></a>
 							<h3>ADEKUA</h3>
 							<p>Mantenimiento y remodelación profesional de inmuebles e instalaciones personalizadas.</p>
 						</div>
@@ -203,7 +203,7 @@
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.4s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fas fa-hand-holding-usd"></i></i></span>
+							<a href="http://dudu.mx" target= "_blank"><span class="service-icon icon-pentagon"><i class="fas fa-ad"></i></span></a>
 							<h3>DUDU</h3>
 							<p>Todo lo que necesitas para hacer despegar a tu negocio solo aquí, en Dudu.</p>
 						</div>
