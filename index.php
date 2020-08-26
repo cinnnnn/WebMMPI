@@ -792,12 +792,12 @@
 				<div class="row wow fadeInLeft">
 					<div id="client-carousel" class="col-sm-12 owl-carousel owl-theme text-center client-carousel">
 						<figure class="m-0 item client_logo">
-							<a href="http://dudu.mx/">
+							<a href="http://dudu.mx" target="_blank">
 								<img src="images/clients/client1.png" alt="client">
 							</a>
 						</figure>
 						<figure class="m-0 item client_logo">
-							<a href="#">
+							<a href="http://adekua.mx" target="_blank">
 								<img src="images/clients/client2.png" alt="client">
 							</a>
 						</figure>
@@ -807,7 +807,7 @@
 							</a>
 						</figure>
 						<figure class="m-0 item client_logo">
-							<a href="#">
+							<a href="http://wavs.mx" target="_blank">
 								<img src="images/clients/client4.png" alt="client">
 							</a>
 						</figure>
@@ -913,7 +913,7 @@
 				<div class="row">
 				<div class="col-md-12 text-center">
 					<div class="copyright-info">
-					<p class="mb-0">Todos los derechos reservados © <?php echo date('Y');?>. Diseñado y desarrollado por <a href="mailto:hello@dudu.mx" class="text-red">Grupo Dudu </a>una división de <img src="images/logo-mmpi.png" style="width: 140px; margin-top: -5px;"></p>
+					<p class="mb-0">Todos los derechos reservados © <?php echo date('Y');?>. Diseñado y desarrollado por <a href="http://dudu.mx" target="_blank" class="text-red">Grupo Dudu </a>una división de <img src="images/logo-mmpi.png" style="width: 140px; margin-top: -5px;"></p>
 					</div>
 				</div>
 				</div>
