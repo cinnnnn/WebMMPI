@@ -77,8 +77,15 @@
 									<a class="dropdown-item" href="elements.html">Elements</a>
 								</div>
 							</li-->
-							<li class="nav-item">
-								<a class="nav-link" href="index.php">Inicio</a></a>
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+									aria-expanded="false">
+									Menú
+								</a>
+								<div class="dropdown-menu">
+									<a class="dropdown-item" href="#">Menu 1</a>
+									<a class="dropdown-item" href="#">Menu 2</a>
+								</div>
 							</li>
 						</ul>
 					</div>
