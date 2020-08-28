@@ -61,6 +61,8 @@
 			<a class="navbar-brand navbar-bg" href="index.php"><img class="img-fluid float-right" src="images/logo.png" alt="logo"></a>
 			<div class="container">
 				<nav class="navbar navbar-expand-lg navbar-dark">
+					<a href=""><img class="" style="margin-left: -150px;" src="images/mx-flag.png" alt="español"></a>
+					<a href=""><img class="" style="margin-left: -75px;" src="images/us-flag.png" alt="english"></a>
 					<button class="navbar-toggler ml-auto border-0 rounded-0 text-white" type="button" data-toggle="collapse"
 						data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="fa fa-bars"></span>
