@@ -76,10 +76,10 @@
 									MENÚ
 								</a>
 								<div class="dropdown-menu">
-									<a class="dropdown-item" href="#services">Divisiones y Servicios</a>
-									<a class="dropdown-item" href="index-2.html">Homepage 2</a>
-									<a class="dropdown-item" href="index-3.html">Homepage 3</a>
-									<a class="dropdown-item" href="#contact">Contacto</a>
+									<a class="dropdown-item ancla" data-ancla="services" href="#">Divisiones y Servicios</a>
+									<a class="dropdown-item ancla" data-ancla="" href="#">Homepage 2</a>
+									<a class="dropdown-item ancla" data-ancla="" href="#">Homepage 3</a>
+									<a class="dropdown-item ancla" data-ancla="contact" href="#">Contacto</a>
 								</div>
 							</li>
 							<li class="nav-item" style="margin-top: 20px;">
@@ -963,6 +963,22 @@
 	<script src="plugins/google-map/gmap.js"></script>
 	<!-- Main Script -->
 	<script src="js/script.js"></script>
+	<script>
+        $(document).ready(function(){
+            $(window).scroll(function(){
+                if( $(this).scrollTop() > 0 ){
+                    $('.ir-arriba').slideDown(300);
+                } else {
+                    $('.ir-arriba').slideUp(300);
+                }
+            });
+			$(".ancla").click(function(evento){
+				evento.preventDefault();
+				var codigo = "#" + $(this).data("ancla");
+				$("html,body").animate({scrollTop: $(codigo).offset().top}, 2300);
+			});
+        });
+	</script>
 </body>
 
 </html>
