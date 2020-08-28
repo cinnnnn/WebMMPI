@@ -727,8 +727,8 @@ blockquote {
 /*-- Logo --*/
 .navbar-brand.navbar-bg {
   position: absolute;
-  left: 20px;
-  padding: 3px 15px 10px;
+  left: 10%;
+  padding: 3px 10px 10px;
   width: 15;
   height: 62px;
   line-height: 62px;
@@ -745,6 +745,12 @@ blockquote {
     background: #191919;
     box-shadow: 0px 1px 7px 0 rgba(0, 0, 0, 0.2);
   }
+}
+
+.phone-header {
+  position: absolute;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .header2 .navbar {

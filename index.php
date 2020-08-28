@@ -55,50 +55,41 @@
 		<a class="btn btn-sm btn-primary close-styler float-right">Close X</a>
 	</div>
 	<!-- Style switcher end -->
-	<div class="body-inner">
+	<div class="body-inner" id="home">
 		<!-- Header start -->
 		<header id="header" class="fixed-top header" role="banner">
-		<div class="row">
-			<div class="col-sm-5">
-				<div class="row">
-					<div class="col-sm">
-						<a class="navbar-brand navbar-bg" href="index.php" style="margin-left: 80px;"><img class="img-fluid float-right" src="images/logo.png" alt="logo"></a>
+			<a class="navbar-brand navbar-bg" href="#home"><img class="float-right" src="images/logo.png" alt="logo"></a>
+			<div style="position: absolute; margin-left: 45%; margin-top: 15px;">
+				<a href="#" style="color: #fff; font-size: 22px;"><i class="fab fa-whatsapp"></i><b> 33-33-33-33-33</b></a>
+			</div>
+			<div class="container">
+				<nav class="navbar navbar-expand-lg navbar-dark">
+					<button class="navbar-toggler ml-auto border-0 rounded-0 text-white" type="button" data-toggle="collapse"
+						data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="fa fa-bars"></span>
+					</button>
+					<div class="collapse navbar-collapse text-center" id="navigation">
+						<ul class="navbar-nav ml-auto">
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+									aria-expanded="false">
+									MENÚ
+								</a>
+								<div class="dropdown-menu">
+									<a class="dropdown-item" href="#services">Divisiones y Servicios</a>
+									<a class="dropdown-item" href="index-2.html">Homepage 2</a>
+									<a class="dropdown-item" href="index-3.html">Homepage 3</a>
+									<a class="dropdown-item" href="#contact">Contacto</a>
+								</div>
+							</li>
+							<li class="nav-item" style="margin-top: 20px;">
+								<a href="" style="margin-left: 10px;"><img src="images/mx-flag.png" alt="logo"> </a>
+								<a href="" style="margin-left: 10px;"> <img src="images/us-flag.png" alt="logo"></a>
+							</li>
+						</ul>
 					</div>
-					<div class="col-sm" style="margin-top: 15px;">
-						<a href=""><img src="images/mx-flag.png" alt="español"></a>
-						<a href=""><img src="images/us-flag.png" alt="english"></a>
-					</div>
-				</div>
+				</nav>
 			</div>
-			<div class="col-sm" style="margin-top: 20px;">
-				<a class="" style="color: #fff; font-size: 20px;" href="#"><i class="fab fa-whatsapp fa-lg" style="color: #fff;"></i> 33-33-33-33-33</a>
-			</div>
-			<div class="col-sm">
-				<div class="container">
-					<nav class="navbar navbar-expand-lg navbar-dark">
-						<button class="navbar-toggler ml-auto border-0 rounded-0 text-white" type="button" data-toggle="collapse"
-							data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-							<span class="fa fa-bars"></span>
-						</button>
-						<div class="collapse navbar-collapse text-center" id="navigation">
-							<ul class="navbar-nav ml-auto">
-								<li class="nav-item dropdown">
-									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-										aria-expanded="false">
-										Menú
-									</a>
-									<div class="dropdown-menu">
-										<a class="dropdown-item" href="#">Menu 1</a>
-										<a class="dropdown-item" href="#">Menu 2</a>
-									</div>
-								</li>
-							</ul>
-						</div>
-					</nav>
-				</div>
-			</div>
-		</div>
-			
 		</header>
 		<!--/ Header end -->
 
@@ -179,7 +170,7 @@
 
 
 		<!-- Service box start -->
-		<section id="service" class="service angle">
+		<section id="services" class="service angle">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 heading">
@@ -854,7 +845,7 @@
 		<!--/ Clients end -->
 
 		<!-- Footer start -->
-		<footer id="footer" class="footer">
+		<footer id="contact" class="footer">
 			<div class="container">
 			<div class="row">
 			<div class="col-md-7">
