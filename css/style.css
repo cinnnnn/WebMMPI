@@ -922,13 +922,13 @@ blockquote {
 #main-slide .slider-content h2 {
   font-size: 52px;
   text-transform: uppercase;
-  color: #fff;
+  color: #2c343b;
 }
 
 #main-slide .slider-content h3 {
   font-size: 28px;
   margin-top: 40px;
-  color: #fff;
+  color: #2c343b;
 }
 
 .slider.btn {
@@ -936,7 +936,7 @@ blockquote {
   margin-top: 40px;
   font-size: 16px;
   text-transform: uppercase;
-  color: #fff;
+  color: #2c343b;
 }
 
 .slider.btn.solid {
@@ -3274,6 +3274,39 @@ a.close-styler {
   }
 }
 
-/* Custom, iPhone Retina */
 
-/*# sourceMappingURL=maps/style.css.map */
+.contenedor {
+  display: flex;
+}
+/* Banner */
+.cd-headline.clip span {
+  padding: 0px;
+}
+
+.banner .cd-headline {
+  font-size: 56px;
+  line-height: 70px;
+}
+.banner-3 {
+  position: relative;
+}
+
+@media screen and (max-width: 993px) {
+  .ocultar{
+      display:none;
+  }
+}
+
+@media screen and (max-width: 993px) {
+  .mostrar{
+      display: block;
+  }
+}
+
+@media screen and (min-width: 994px) {
+  .mostrar{
+      display:none;
+  }
+}
+
+
