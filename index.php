@@ -11,6 +11,14 @@
 	<!-- ** Plugins Needed for the Project ** -->
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+	<link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
+  	<link rel="stylesheet" href="plugins/counto/animate.css">
+  	<link rel="stylesheet" href="plugins/aos/aos.css">
+	<link rel="stylesheet" href="plugins/owl/owl.theme.css">
+  	<link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
+  	<link rel="stylesheet" href="plugins/animated-text/animated-text.css">
+	<link rel="stylesheet" href="plugins/flex-slider/flexslider.css">
+	<link rel="stylesheet" href="plugins/cd-hero/cd-hero.css">
 	<!-- FontAwesome -->
 	<script src="https://kit.fontawesome.com/66918dfdbd.js" crossorigin="anonymous"></script>
 	<!-- Animation -->
@@ -97,78 +105,34 @@
 		<!--/ Header end -->
 
 		<!-- Slider start -->
-		<section id="home" class="p-0">
-			<div id="main-slide" class="cd-hero">
-				<ul class="cd-hero-slider">
-					<li class="selected">
-						<div class="overlay2">
-							<img class="" src="images/slider/bg1.jpg" alt="slider">
+	<section class="section banner" style="margin-top: 50px;" id="home">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-10">
+					<h2 class="cd-headline clip is-full-width mb-4 ">
+					<div class="row">
+						Pasión por...
+						<div class="ocultar" style="margin-left: 30px;">
+							<span class="cd-words-wrapper text-color">
+								<b class="is-visible"> REPARAR.</b>
+								<b> CONFIGURAR.</b>
+								<b> ANALIZAR.</b>
+								<b> REPRESENTAR.</b>
+								<b> COMERCIALIZAR.</b>
+								<b> MAQUILAR.</b>
+								<b> PROCURAR.</b>
+								<b> RECICLAR.</b>
+							</span>
+						</div> 
+					</div>
+						<div class="mostrar">
+							<span class="text-color">REPRESENTAR.</span>
 						</div>
-						<div class="cd-full-width">
-							<h2>Need To Invent The Future!</h2>
-							<h3>We Making Difference To Great Things Possible</h3>
-							<a href="#0" class="btn btn-primary white cd-btn">Start Now</a>
-							<a href="#0" class="btn btn-primary solid cd-btn">Learn More</a>
-						</div> <!-- .cd-full-width -->
-					</li>
-					<li>
-						<div class="overlay2">
-							<img class="" src="images/slider/bg2.jpg" alt="slider">
-						</div>
-						<div class="cd-half-width">
-							<h2>How Big Can You Dream?</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In consequatur cumque natus!</p>
-							<a href="#0" class="cd-btn btn btn-primary solid">Take a Tour</a>
-						</div> <!-- .cd-half-width -->
-
-						<div class="cd-half-width cd-img-container">
-							<img src="images/slider/bg-thumb1.png" alt="">
-						</div> <!-- .cd-half-width.cd-img-container -->
-					</li>
-					<li>
-						<div class="overlay2">
-							<img class="" src="images/slider/bg3.jpg" alt="slider">
-						</div>
-						<div class="cd-half-width cd-img-container img-right">
-							<img src="images/slider/bg-thumb2.png" alt="">
-						</div> <!-- .cd-half-width.cd-img-container -->
-						<div class="cd-half-width">
-							<h2>Your Challenge is Our Progress</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In consequatur cumque natus!</p>
-							<a href="#0" class="cd-btn btn btn-primary white">Start</a>
-							<a href="#0" class="cd-btn btn secondary btn-primary solid">Learn More</a>
-						</div> <!-- .cd-half-width -->
-					</li>
-					<li class="cd-bg-video">
-						<div class="cd-full-width">
-							<h2>WE ARE HERE TO MAKE IT HAPPEN</h2>
-							<h3>We Making Difference To Great Things Possible</h3>
-
-							<a href="#0" class="cd-btn btn btn-primary solid">Learn more</a>
-						</div> <!-- .cd-full-width -->
-
-						<div class="cd-bg-video-wrapper" data-video="videos/video">
-							<!-- video element will be loaded using jQuery -->
-						</div> <!-- .cd-bg-video-wrapper -->
-					</li>
-				</ul>
-				<!--/ cd-hero-slider -->
-
-				<div class="cd-slider-nav">
-					<nav>
-						<span class="cd-marker item-1"></span>
-						<ul>
-							<li class="selected"><a href="#0"><i class="fa fa-bicycle"></i> Invent</a></li>
-							<li><a href="#0"><i class="fa fa-hotel"></i> Dream</a></li>
-							<li><a href="#0"><i class="fa fa-android"></i> Tech</a></li>
-							<li class="video"><a href="#0"><i class="fa fa-video-camera"></i> Video</a></li>
-						</ul>
-					</nav>
-				</div> <!-- .cd-slider-nav -->
-
+					</h2>
+				</div>
 			</div>
-			<!--/ Main slider end -->
-		</section>
+		</div>
+	</section>
 		<!--/ Slider end -->
 
 
@@ -940,6 +904,15 @@
 	<script src="plugins/jQuery/jquery.min.js"></script>
 	<!-- Bootstrap JS -->
 	<script src="plugins/bootstrap/bootstrap.min.js"></script>
+	<script src="plugins/aos/aos.js"></script>
+	<script src="plugins/owl-carousel/owl.carousel.min.js"></script>
+	<script type="text/javascript" src="plugins/owl/owl.carousel.js"></script>
+	<script src="plugins/shuffle/shuffle.min.js"></script>
+	<script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+	<script src="plugins/animated-text/animated-text.js"></script>
+	<script src="plugins/counto/apear.js"></script>
+	<script src="plugins/counto/counTo.js"></script>
+	<script type="text/javascript" src="plugins/wow.min.js"></script>
 	<!-- Style Switcher -->
 	<script type="text/javascript" src="plugins/style-switcher.js"></script>
 	<!-- Owl Carousel -->
