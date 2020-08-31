@@ -102,32 +102,28 @@
 		<!--/ Header end -->
 
 		<!-- Slider start -->
-	<section class="section banner" style="margin-top: 50px;" id="home">
+	<section class="section banner" style="padding-top: 200px; padding-bottom: 200px; background-color: #235377;" id="home">
 		<div class="container">
-			<div class="row">
-				<div class="col-lg-10">
-					<h2 class="cd-headline clip is-full-width mb-4 ">
-					<div class="row">
-						Pasión por...
-						<div class="ocultar" style="margin-left: 30px;">
-							<span class="cd-words-wrapper text-color">
-								<b class="is-visible"> REPARAR.</b>
-								<b> CONFIGURAR.</b>
-								<b> ANALIZAR.</b>
-								<b> REPRESENTAR.</b>
-								<b> COMERCIALIZAR.</b>
-								<b> MAQUILAR.</b>
-								<b> PROCURAR.</b>
-								<b> RECICLAR.</b>
-							</span>
-						</div> 
+			<h2 class="cd-headline clip is-full-width mb-4 text-center" style="color: #fff;">
+				<div class="row">
+					Pasión por...
+					<div class="ocultar" style="margin-left: 30px;">
+						<span class="cd-words-wrapper text-color">
+							<b class="is-visible"> REPARAR.</b>
+							<b> CONFIGURAR.</b>
+							<b> ANALIZAR.</b>
+							<b> REPRESENTAR.</b>
+							<b> COMERCIALIZAR.</b>
+							<b> MAQUILAR.</b>
+							<b> PROCURAR.</b>
+							<b> RECICLAR.</b>
+						</span>
+					</div> 
+					<div class="mostrar">
+						<span class="text-color">REPRESENTAR.</span>
 					</div>
-						<div class="mostrar">
-							<span class="text-color">REPRESENTAR.</span>
-						</div>
-					</h2>
 				</div>
-			</div>
+			</h2>
 		</div>
 	</section>
 		<!--/ Slider end -->
