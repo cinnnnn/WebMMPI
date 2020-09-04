@@ -133,7 +133,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 heading">
-						<span class="title-icon float-left"><i class="fas fa-server"></i></span>
+						<span class="title-icon float-left"><i class="fas fa-th"></i></span>
 						<h2 class="title">Divisiones y servicios <span class="title-desc">Tenemos todo lo que buscas</span></h2>
 					</div>
 				</div><!-- Title row end -->
@@ -143,7 +143,7 @@
 						<div class="service-content text-center">
 							<a href="http://adekua.mx" target="_blank"><span class="service-icon icon-pentagon"><i class="fas fa-home"></i></span></a>
 							<h3>ADEKUA</h3>
-							<p>Mantenimiento y remodelación profesional de inmuebles e instalaciones personalizadas.</p>
+							<p>Ampliación, remodelación y construcción de tu inmbueble ideal.</p>
 						</div>
 					</div>
 					<!--/ End first service -->
@@ -152,7 +152,7 @@
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-shopping-cart"></i></span>
 							<h3>BETTER MARKET</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
+							<p>Representamos tu marca; conoce nuestra fuerza de ventas.</p>
 						</div>
 					</div>
 					<!--/ End Second service -->
@@ -168,33 +168,49 @@
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.4s">
 						<div class="service-content text-center">
-							<a href="http://dudu.mx" target= "_blank"><span class="service-icon icon-pentagon"><i class="fas fa-ad"></i></span></a>
+							<a href="http://dudu.mx" target= "_blank"><span class="service-icon icon-pentagon"><i class="far fa-lightbulb"></i></span></a>
 							<h3>DUDU</h3>
 							<p>Todo lo que necesitas para hacer despegar a tu negocio solo aquí, en Dudu.</p>
 						</div>
 					</div>
 
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.4s">
+					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.7s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-globe-americas"></i></span>
-							<h3>EXPORTACION</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
+							<h3>NACIONAL + IMPO -EXPO</h3>
+							<p>Cualquier origen, cualquier destino, tu producto en manos de tus clientes.</p>
 						</div>
 					</div>
 
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.4s">
-						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fas fa-flag-usa"></i></span>
-							<h3>IMPORTACIÓN</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
-						</div>
-					</div>
-
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.4s">
+					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="2.1s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-robot"></i></span>
 							<h3>BOTS AND MACHINE LEARNING</h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="2.4s">
+						<div class="service-content text-center">
+							<span class="service-icon icon-pentagon"><i class="fas fa-boxes"></i></span>
+							<h3>PROCUR-E</h3>
+							<p>Siempre surtido, a costo de tu proveedor, te decimos como.</p>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="2.7s">
+						<div class="service-content text-center">
+							<span class="service-icon icon-pentagon"><i class="fas fa-barcode"></i></span>
+							<h3>ESKEMA</h3>
+							<p>Tu producto en su mejor versión; reempaque, reetiquetado y armado de kits.</p>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="3.1s">
+						<div class="service-content text-center">
+							<span class="service-icon icon-pentagon"><i class="fas fa-recycle"></i></span>
+							<h3>RECICLA-TECH</h3>
+							<p>Reduce tu costo de empaque, recicla y reutiliza el desperdicio de otros.</p>
 						</div>
 					</div>
 					<!--/ End 4th service -->
