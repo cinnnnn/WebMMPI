@@ -65,10 +65,10 @@
 	<!-- Style switcher end -->
 	<div class="body-inner" id="home">
 		<!-- Header start -->
-		<header id="header" class="fixed-top header" role="banner">
+		<header id="header" class="fixed-top header" role="banner" style="background-color: #fff; padding: 5px;">
 			<a class="navbar-brand navbar-bg" href="#home"><img class="float-right" src="images/logo.png" alt="logo"></a>
-			<div style="position: absolute; margin-left: 45%; margin-top: 15px;">
-				<a href="#" style="color: #fff; font-size: 22px;"><i class="fab fa-whatsapp"></i><b> 33-33-33-33-33</b></a>
+			<div style="position: absolute; margin-left: 45%; margin-top: 20px;">
+				<a href="#" style="color: #225279; font-size: 22px;"><i class="fab fa-whatsapp"></i><b> 33-23-84-27-82</b></a>
 			</div>
 			<div class="container">
 				<nav class="navbar navbar-expand-lg navbar-dark">
@@ -79,8 +79,7 @@
 					<div class="collapse navbar-collapse text-center" id="navigation">
 						<ul class="navbar-nav ml-auto">
 							<li class="nav-item dropdown">
-								<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-									aria-expanded="false">
+								<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #225279;">
 									MENÚ
 								</a>
 								<div class="dropdown-menu">
