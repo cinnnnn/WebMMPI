@@ -1225,7 +1225,6 @@ blockquote {
 .isotope-nav {
   margin: -80px auto 80px;
   display: inline-block;
-  float: right;
   position: relative;
   z-index: 100;
 }

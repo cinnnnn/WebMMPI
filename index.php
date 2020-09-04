@@ -206,24 +206,28 @@
 
 		<!-- Portfolio start -->
 		<section id="portfolio" class="portfolio">
-			<div class="container">
+			<div class="container text-center">
 				<div class="row">
 					<div class="col-md-12 heading">
-						<span class="title-icon classic float-left"><i class="fa fa-suitcase"></i></span>
-						<h2 class="title classic">Our Awesome Work</h2>
+						<span class="title-icon classic"><i class="fa fa-suitcase"></i></span>
+						<h2 class="title classic">Proyectos Entregados</h2>
 					</div>
 				</div> <!-- Title row end -->
-
+				<br>
+				<br>
 				<!--Isotope filter start -->
-				<div class="row text-right">
+				<div class="row">
 					<div class="col-12">
 						<div class="isotope-nav" data-isotope-nav="isotope">
 							<ul>
-								<li><a href="#" class="active" data-filter="*">All</a></li>
-								<li><a href="#" data-filter=".web-design">Web Design</a></li>
-								<li><a href="#" data-filter=".development">Development</a></li>
-								<li><a href="#" data-filter=".joomla">Joomla</a></li>
-								<li><a href="#" data-filter=".wordpress">Wordpress</a></li>
+								<li><a href="#" class="active" data-filter="*">Favoritos</a></li>
+								<li><a href="#" data-filter=".web-design">Adekua</a></li>
+								<li><a href="#" data-filter=".development">Better Market</a></li>
+								<li><a href="#" data-filter=".joomla">Comercialilza</a></li>
+								<li><a href="#" data-filter=".wordpress">Dudu</a></li>
+								<li><a href="#" data-filter=".wordpress">Exportación</a></li>
+								<li><a href="#" data-filter=".wordpress">Importación</a></li>
+								<li><a href="#" data-filter=".wordpress">Bots & M.L.</a></li>
 							</ul>
 						</div>
 					</div>
