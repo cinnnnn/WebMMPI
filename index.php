@@ -509,7 +509,7 @@
 								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
 								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
 								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
-								<p><i class="fa fa-globe info"></i> www.bizcraft.com</p>
+								<p><i class="fa fa-globe info"></i> www.mmpi.mx</p>
 							</div>
 						</div>
 						<div class="row">
@@ -519,7 +519,7 @@
 								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
 								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
 								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
-								<p><i class="fa fa-globe info"></i> www.bizcraft.com</p>
+								<p><i class="fa fa-globe info"></i> www.mmpi.mx</p>
 							</div>
 						</div>
 					</div>
@@ -531,7 +531,7 @@
 								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
 								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
 								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
-								<p><i class="fa fa-globe info"></i> www.bizcraft.com</p>
+								<p><i class="fa fa-globe info"></i> www.mmpi.mx</p>
 							</div>
 						</div>
 						<div class="row">
@@ -541,7 +541,7 @@
 								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
 								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
 								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
-								<p><i class="fa fa-globe info"></i> www.bizcraft.com</p>
+								<p><i class="fa fa-globe info"></i> www.mmpi.mx</p>
 							</div>
 						</div>
 					</div>
