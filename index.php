@@ -807,50 +807,79 @@
 		<!-- Footer start -->
 		<footer id="contact" class="footer">
 			<div class="container">
-			<div class="row">
-			<div class="col-md-7">
-				<form id="contact-form" action="mail.php" method="post" role="form">
-					<div class="row">
-						<div class="col-md-4">
+				<div class="text-center">
+					<h3 style="color:#3C8FD3;">CONTÁCTENOS</h3>
+					<p>Estamos a tus ordenes.</p>
+				</div>
+				<div class="row">
+					<div class="col-md-4">
+						<form id="contact-form" action="mail.php" method="post" role="form">
 							<div class="form-group">
 								<label>Nombre completo</label>
 								<input class="form-control" name="name" placeholder="" type="text" required>
 							</div>
-						</div>
-						<div class="col-md-4">
 							<div class="form-group">
 								<label>Número de contacto</label>
 								<input class="form-control" name="phone" placeholder="" type="text" required>
 							</div>
-						</div>
-						<div class="col-md-4">
 							<div class="form-group">
 								<label>Correo electrónico</label>
 								<input class="form-control" name="email" placeholder="" required>
 							</div>
+							<div class="form-group">
+								<label>¿En qué te podemos ayudar?</label>
+								<textarea class="form-control" name="message"  placeholder="" rows="4" required></textarea>
+							</div>
+							<div class="text-right"><br>
+								<button class="btn btn-primary solid blank" name="submit" type="submit">Enviar mensaje</button>
+							</div>
+						</form>
+					</div>
+					<div class="col-md-4 text-center">
+						<div class="row">
+							<div class="contact-info ">
+								<br>
+								<p><i class="fas fa-flag"></i>México</p>
+								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
+								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
+								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
+								<p><i class="fa fa-globe info"></i> www.bizcraft.com</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="contact-info ">
+								<br>
+								<p><i class="fas fa-flag"></i>Ecuador</p>
+								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
+								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
+								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
+								<p><i class="fa fa-globe info"></i> www.bizcraft.com</p>
+							</div>
 						</div>
 					</div>
-					<div class="form-group">
-						<label>¿En qué te podemos ayudar?</label>
-						<textarea class="form-control" name="message"  placeholder="" rows="10" required></textarea>
+					<div class="col-md-4 text-center">
+						<div class="row">
+							<div class="contact-info ">
+								<br>
+								<p><i class="fas fa-flag"></i>Estados Unidos</p>
+								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
+								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
+								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
+								<p><i class="fa fa-globe info"></i> www.bizcraft.com</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="contact-info ">
+								<br>
+								<p><i class="fas fa-flag"></i>Guatemala</p>
+								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
+								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
+								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
+								<p><i class="fa fa-globe info"></i> www.bizcraft.com</p>
+							</div>
+						</div>
 					</div>
-					<div class="text-right"><br>
-						<button class="btn btn-primary solid blank" name="submit" type="submit">Enviar mensaje</button>
-					</div>
-				</form>
-			</div>
-			<div class="col-md-5">
-				<div class="contact-info ">
-					<h3 style="color:#3C8FD3;">CONTÁCTENOS</h3>
-					<p>Estamos a tus ordenes.</p>
-					<br>
-					<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo 8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
-					<!--<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
-					<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
-					<p><i class="fa fa-globe info"></i> www.bizcraft.com</p>-->
 				</div>
-			</div>
-		</div>
 			</div><!-- Container end -->
 		</footer><!-- Footer end -->
 
