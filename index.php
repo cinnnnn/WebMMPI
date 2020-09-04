@@ -109,13 +109,13 @@
 					Pasión por...
 					<div class="ocultar" style="margin-left: 30px;">
 						<span class="cd-words-wrapper text-color">
-							<b class="is-visible"> REPARAR.</b>
+							<b class="is-visible"> DISTRIBUIR.</b>
+							<b> CONSTRUIR.</b>
 							<b> CONFIGURAR.</b>
-							<b> ANALIZAR.</b>
-							<b> REPRESENTAR.</b>
+							<b> CREAR.</b>
+							<b> REETIQUETAR.</b>
+							<b> ABASTECER.</b>
 							<b> COMERCIALIZAR.</b>
-							<b> MAQUILAR.</b>
-							<b> PROCURAR.</b>
 							<b> RECICLAR.</b>
 						</span>
 					</div> 
