@@ -19,8 +19,11 @@
   	<link rel="stylesheet" href="plugins/animated-text/animated-text.css">
 	<link rel="stylesheet" href="plugins/flex-slider/flexslider.css">
 	<link rel="stylesheet" href="plugins/cd-hero/cd-hero.css">
+	<link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap" rel="stylesheet">
 	<!-- FontAwesome -->
 	<script src="https://kit.fontawesome.com/66918dfdbd.js" crossorigin="anonymous"></script>
+	<!-- AJAX -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript" ></script>
 	<!-- Animation -->
 	<link rel="stylesheet" href="plugins/animate.css">
 	<!-- Prettyphoto -->
@@ -101,9 +104,9 @@
 		<!--/ Header end -->
 
 		<!-- Slider start -->
-	<section class="section banner" style="padding-top: 200px; padding-bottom: 200px; background-color: #235377;" id="home">
+	<section class="section banner" style="padding-top: 120px; padding-bottom: 0px; background-color: #235377;" id="home">
 		<div class="container">
-			<h2 class="cd-headline clip is-full-width mb-4 text-center" style="color: #fff;">
+			<h2 class="cd-headline clip is-full-width mb-4 text-center switch-text" style="color: #fff;">
 				<div class="row">
 					Pasión por...
 					<div class="ocultar" style="margin-left: 30px;">
@@ -117,12 +120,21 @@
 							<b> COMERCIALIZAR.</b>
 							<b> RECICLAR.</b>
 						</span>
-					</div> 
+					</div>	 
 					<div class="mostrar">
-						<span class="text-color">REPRESENTAR.</span>
+						<span class="text-color">CONSTRUIR.</span>
 					</div>
 				</div>
 			</h2>
+		</div>
+		<div>
+			<div style="background-color: #959595; color: white;" class="row text-center">
+					<div class="col-sm"><b>COMERCIAL</b></div><span style="margin-top: -5px;"><b>.</b></span>
+					<div class="col-sm"><b>ESCOLAR</b></div><span style="margin-top: -5px;"><b>.</b></span>
+					<div class="col-sm"><b>HOGAR</b></div><span style="margin-top: -5px;"><b>.</b></span>
+					<div class="col-sm"><b>INDUSTRIAL</b></div><span style="margin-top: -5px;"><b>.</b></span>
+					<div class="col-sm"><b>OFICINA</b></div>
+			</div>
 		</div>
 	</section>
 		<!--/ Slider end -->
