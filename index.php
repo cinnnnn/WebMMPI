@@ -162,7 +162,7 @@
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".8s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fas fa-shopping-cart"></i></span>
+							<span class="service-icon icon-pentagon"><i class="fas fa-chart-line"></i></span>
 							<h3>BETTER MARKET</h3>
 							<p>Representamos tu marca; conoce nuestra fuerza de ventas.</p>
 						</div>
@@ -171,48 +171,40 @@
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.1s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fas fa-coins"></i></i></span>
-							<h3>COMERCIALIZA</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
+							<span class="service-icon icon-pentagon"><i class="fas fa-clipboard-check"></i></span>
+							<h3>CONSIGNA</h3>
+							<p>Siempre surtido; paga hasta su consumo.</p>
 						</div>
 					</div>
 					<!--/ End Third service -->
 
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.4s">
-						<div class="service-content text-center">
-							<a href="http://dudu.mx" target= "_blank"><span class="service-icon icon-pentagon"><i class="far fa-lightbulb"></i></span></a>
-							<h3>DUDU</h3>
-							<p>Todo lo que necesitas para hacer despegar a tu negocio solo aquí, en Dudu.</p>
-						</div>
-					</div>
-
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.7s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-globe-americas"></i></span>
-							<h3>NACIONAL + IMPO -EXPO</h3>
+							<h3>GLOBAL TRADER</h3>
 							<p>Cualquier origen, cualquier destino, tu producto en manos de tus clientes.</p>
 						</div>
 					</div>
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="2.1s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fas fa-robot"></i></span>
-							<h3>BOTS AND MACHINE LEARNING</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae urna rhoncus</p>
+							<span class="service-icon icon-pentagon"><i class="far fa-lightbulb"></i></span>
+							<h3>INVENTA</h3>
+							<p>Desarrollamos productos funcionales.</p>
 						</div>
 					</div>
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="2.4s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fas fa-boxes"></i></span>
-							<h3>PROCUR-E</h3>
-							<p>Siempre surtido, a costo de tu proveedor, te decimos como.</p>
+							<span class="service-icon icon-pentagon"><i class="fas fa-rss"></i></span>
+							<h3>WAVS</h3>
+							<p>Wireless audio + video systems.</p>
 						</div>
 					</div>
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="2.7s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fas fa-barcode"></i></span>
+							<span class="service-icon icon-pentagon"><i class="fas fa-project-diagram"></i></span>
 							<h3>ESKEMA</h3>
 							<p>Tu producto en su mejor versión; reempaque, reetiquetado y armado de kits.</p>
 						</div>
@@ -221,7 +213,7 @@
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="3.1s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-recycle"></i></span>
-							<h3>RECICLA-TECH</h3>
+							<h3>RECICLA-T</h3>
 							<p>Reduce tu costo de empaque, recicla y reutiliza el desperdicio de otros.</p>
 						</div>
 					</div>
