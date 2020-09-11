@@ -243,11 +243,12 @@
 								<li><a href="#" class="active" data-filter="*">Favoritos</a></li>
 								<li><a href="#" data-filter=".web-design">Adekua</a></li>
 								<li><a href="#" data-filter=".development">Better Market</a></li>
-								<li><a href="#" data-filter=".joomla">Comercialilza</a></li>
-								<li><a href="#" data-filter=".wordpress">Dudu</a></li>
-								<li><a href="#" data-filter=".wordpress">Exportación</a></li>
-								<li><a href="#" data-filter=".wordpress">Importación</a></li>
-								<li><a href="#" data-filter=".wordpress">Bots & M.L.</a></li>
+								<li><a href="#" data-filter=".joomla">Consigna</a></li>
+								<li><a href="#" data-filter=".wordpress">Global Trader</a></li>
+								<li><a href="#" data-filter=".wordpress">Inventa</a></li>
+								<li><a href="#" data-filter=".wordpress">Wavs</a></li>
+								<li><a href="#" data-filter=".wordpress">Eskema</a></li>
+								<li><a href="#" data-filter=".wordpress">Recicla-T</a></li>
 							</ul>
 						</div>
 					</div>
