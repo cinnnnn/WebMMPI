@@ -119,6 +119,10 @@
 						</button>
 						<div class="collapse navbar-collapse text-center" id="navigation">
 							<ul class="navbar-nav ml-auto">
+								<li class="nav-item" style="margin-top: 20px;">
+									<a href="" style="margin-left: 10px;"><img src="images/mx-flag.png" alt="logo"> </a>
+									<a href="" style="margin-left: 10px;"> <img src="images/us-flag.png" alt="logo"></a>
+								</li>
 								<li class="nav-item dropdown">
 									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #225279;">
 										MENÚ
@@ -129,10 +133,6 @@
 										<a class="dropdown-item ancla" data-ancla="" href="#">Homepage 3</a>
 										<a class="dropdown-item ancla" data-ancla="contact" href="#">Contacto</a>
 									</div>
-								</li>
-								<li class="nav-item" style="margin-top: 20px;">
-									<a href="" style="margin-left: 10px;"><img src="images/mx-flag.png" alt="logo"> </a>
-									<a href="" style="margin-left: 10px;"> <img src="images/us-flag.png" alt="logo"></a>
 								</li>
 							</ul>
 						</div>
