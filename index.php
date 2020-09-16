@@ -108,8 +108,8 @@
 			<header id="header" class="fixed-top header" role="banner" style="background-color: #fff; padding: 5px;">
 				<a class="navbar-brand1 navbar-bg" href="#home"><img class="float-right" src="images/logo.png" alt="logo"></a>
 				<!--whatsapp logo-->
-				<div style="position: absolute; margin-left: 50%; margin-top: 5px;">
-					<a href="#" style="color: #225279; font-size: 50px;"><i class="fab fa-whatsapp"></i></a>
+				<div style="position: absolute; margin-left: 60%; margin-top: 5px;">
+					<a href="#" style="color: #225279;"><i class="fab fa-whatsapp fa-3x"></i></a>
 				</div>
 				<div class="container">
 					<nav class="navbar navbar-expand-lg navbar-dark">
@@ -147,7 +147,7 @@
 	<section class="section banner" style="padding-top: 120px; padding-bottom: 0px; background-color: #235377;" id="home">
 		<div class="container">
 			<h2 class="cd-headline clip is-full-width mb-4 text-center switch-text" style="color: #fff;">
-				<div class="row">
+				<div class="row ocultar">
 					Pasión por...
 					<div class="ocultar" style="margin-left: 30px;">
 						<span class="cd-words-wrapper text-color">
@@ -161,25 +161,27 @@
 							<b> RECICLAR.</b>
 						</span>
 					</div>	 
-					<div class="mostrar">
-						<span class="text-color">COMERCIALIZAR.</span>
-					</div>
+				</div>
+				<div class="mostrar">
+					<span class="text-color" style="font-size: 35px;">PASIÓN POR... COMERCIALIZAR</span>
 				</div>
 			</h2>
 		</div>
 		<div>
-			<div style="background-color: #959595; color: white;" class="row text-center">
-					<div class="col-sm"><b>COMERCIAL</b></div><span style="margin-top: -5px;"><b>.</b></span>
-					<div class="col-sm"><b>ESCOLAR</b></div><span style="margin-top: -5px;"><b>.</b></span>
-					<div class="col-sm"><b>HOGAR</b></div><span style="margin-top: -5px;"><b>.</b></span>
-					<div class="col-sm"><b>INDUSTRIAL</b></div><span style="margin-top: -5px;"><b>.</b></span>
-					<div class="col-sm"><b>OFICINA</b></div>
+			<div style="background-color: #959595; color: white;" class="row text-center ocultar">
+				<div class="col-sm"><b>COMERCIAL</b></div><span style="margin-top: -5px;"><b>.</b></span>
+				<div class="col-sm"><b>ESCOLAR</b></div><span style="margin-top: -5px;"><b>.</b></span>
+				<div class="col-sm"><b>HOGAR</b></div><span style="margin-top: -5px;"><b>.</b></span>
+				<div class="col-sm"><b>INDUSTRIAL</b></div><span style="margin-top: -5px;"><b>.</b></span>
+				<div class="col-sm"><b>OFICINA</b></div>
+			</div>
+			<div style="background-color: #959595; color: white;" class="row text-center mostrar">
+				<div class="col-xs" style="display: inline"><b>COMERCIAL </b></div><span style="margin-top: -5px; "><b> - </b></span>
+				<div class="col-xs" style="display: inline"><b> ESCOLAR </b></div><span style="margin-top: -5px; "><b> - </b></span>
+				<div class="col-xs" style="display: inline"><b> INDUSTRIAL</b></div>
 			</div>
 		</div>
 	</section>
-		<!--/ Slider end -->
-
-
 		<!-- Service box start -->
 		<section id="services" class="service angle">
 			<div class="container">

@@ -726,8 +726,7 @@ blockquote {
 /*-- Logo --*/
 .navbar-brand1.navbar-bg {
   position: absolute;
-  left: 5%;
-  padding: 3px 10px 10px;
+  left: 1%;
   width: 10;
   height: 40px;
   line-height: 40px;
@@ -3310,6 +3309,13 @@ a.close-styler {
 .switch-text{
   font-family: 'Kumbh Sans', sans-serif; 
   font-size: 10px;
+}
+
+/*cintilla fixed*/
+.cintilla{
+  display: flex;
+  /* align-items por defecto tiene el valor `stretch` */
+  align-items: start;
 }
 
 
