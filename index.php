@@ -188,7 +188,7 @@
 				<div class="row">
 					<div class="col-md-12 heading">
 						<span class="title-icon float-left"><i class="fas fa-th"></i></span>
-						<h2 class="title">Divisiones y servicios <span class="title-desc">Tenemos todo lo que buscas</span></h2>
+						<h2 class="title"style="margin-top: 10px;">Divisiones</h2>
 					</div>
 				</div><!-- Title row end -->
 
