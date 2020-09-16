@@ -68,39 +68,79 @@
 	<!-- Style switcher end -->
 	<div class="body-inner" id="home">
 		<!-- Header start -->
-		<header id="header" class="fixed-top header" role="banner" style="background-color: #fff; padding: 5px;">
-			<a class="navbar-brand navbar-bg" href="#home"><img class="float-right" src="images/logo.png" alt="logo"></a>
-			<div style="position: absolute; margin-left: 45%; margin-top: 20px;">
-				<a href="#" style="color: #225279; font-size: 22px;"><i class="fab fa-whatsapp"></i><b> 33-23-84-27-82</b></a>
-			</div>
-			<div class="container">
-				<nav class="navbar navbar-expand-lg navbar-dark">
-					<button class="navbar-toggler ml-auto border-0 rounded-0 text-white" type="button" data-toggle="collapse"
-						data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
-						<span class="fa fa-bars"></span>
-					</button>
-					<div class="collapse navbar-collapse text-center" id="navigation">
-						<ul class="navbar-nav ml-auto">
-							<li class="nav-item dropdown">
-								<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #225279;">
-									MENÚ
-								</a>
-								<div class="dropdown-menu">
-									<a class="dropdown-item ancla" data-ancla="services" href="#">Divisiones y Servicios</a>
-									<a class="dropdown-item ancla" data-ancla="" href="#">Homepage 2</a>
-									<a class="dropdown-item ancla" data-ancla="" href="#">Homepage 3</a>
-									<a class="dropdown-item ancla" data-ancla="contact" href="#">Contacto</a>
-								</div>
-							</li>
-							<li class="nav-item" style="margin-top: 20px;">
-								<a href="" style="margin-left: 10px;"><img src="images/mx-flag.png" alt="logo"> </a>
-								<a href="" style="margin-left: 10px;"> <img src="images/us-flag.png" alt="logo"></a>
-							</li>
-						</ul>
-					</div>
-				</nav>
-			</div>
-		</header>
+		<div class="ocultar">
+			<header id="header" class="fixed-top header" role="banner" style="background-color: #fff; padding: 5px;">
+				<a class="navbar-brand navbar-bg" href="#home"><img class="float-right" src="images/logo.png" alt="logo"></a>
+				<div style="position: absolute; margin-left: 45%; margin-top: 20px;">
+					<a href="#" style="color: #225279; font-size: 22px;"><i class="fab fa-whatsapp"></i><b> 33-23-84-27-82</b></a>
+				</div>
+				<div class="container">
+					<nav class="navbar navbar-expand-lg navbar-dark">
+						<button class="navbar-toggler ml-auto border-0 rounded-0 text-white" type="button" data-toggle="collapse"
+							data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="fa fa-bars"></span>
+						</button>
+						<div class="collapse navbar-collapse text-center" id="navigation">
+							<ul class="navbar-nav ml-auto">
+								<li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #225279;">
+										MENÚ
+									</a>
+									<div class="dropdown-menu">
+										<a class="dropdown-item ancla" data-ancla="services" href="#">Divisiones y Servicios</a>
+										<a class="dropdown-item ancla" data-ancla="" href="#">Homepage 2</a>
+										<a class="dropdown-item ancla" data-ancla="" href="#">Homepage 3</a>
+										<a class="dropdown-item ancla" data-ancla="contact" href="#">Contacto</a>
+									</div>
+								</li>
+								<li class="nav-item" style="margin-top: 20px;">
+									<a href="" style="margin-left: 10px;"><img src="images/mx-flag.png" alt="logo"> </a>
+									<a href="" style="margin-left: 10px;"> <img src="images/us-flag.png" alt="logo"></a>
+								</li>
+							</ul>
+						</div>
+					</nav>
+				</div>
+			</header>
+		</div>
+
+		<div class="mostrar">
+			<header id="header" class="fixed-top header" role="banner" style="background-color: #fff; padding: 5px;">
+				<a class="navbar-brand1 navbar-bg" href="#home"><img class="float-right" src="images/logo.png" alt="logo"></a>
+				<!--whatsapp logo-->
+				<div style="position: absolute; margin-left: 50%; margin-top: 5px;">
+					<a href="#" style="color: #225279; font-size: 50px;"><i class="fab fa-whatsapp"></i></a>
+				</div>
+				<div class="container">
+					<nav class="navbar navbar-expand-lg navbar-dark">
+						<button class="navbar-toggler ml-auto border-0 rounded-0 text-white" type="button" data-toggle="collapse"
+							data-target="#navigation" aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+							<span class="fa fa-bars"></span>
+						</button>
+						<div class="collapse navbar-collapse text-center" id="navigation">
+							<ul class="navbar-nav ml-auto">
+								<li class="nav-item dropdown">
+									<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #225279;">
+										MENÚ
+									</a>
+									<div class="dropdown-menu">
+										<a class="dropdown-item ancla" data-ancla="services" href="#">Divisiones y Servicios</a>
+										<a class="dropdown-item ancla" data-ancla="" href="#">Homepage 2</a>
+										<a class="dropdown-item ancla" data-ancla="" href="#">Homepage 3</a>
+										<a class="dropdown-item ancla" data-ancla="contact" href="#">Contacto</a>
+									</div>
+								</li>
+								<li class="nav-item" style="margin-top: 20px;">
+									<a href="" style="margin-left: 10px;"><img src="images/mx-flag.png" alt="logo"> </a>
+									<a href="" style="margin-left: 10px;"> <img src="images/us-flag.png" alt="logo"></a>
+								</li>
+							</ul>
+						</div>
+					</nav>
+				</div>
+			</header>
+		</div>
+		
 		<!--/ Header end -->
 
 		<!-- Slider start -->
@@ -122,7 +162,7 @@
 						</span>
 					</div>	 
 					<div class="mostrar">
-						<span class="text-color">CONSTRUIR.</span>
+						<span class="text-color">COMERCIALIZAR.</span>
 					</div>
 				</div>
 			</h2>
