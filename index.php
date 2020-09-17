@@ -148,10 +148,7 @@
 		<div class="container">
 			<h2 class="cd-headline clip is-full-width mb-4 text-center switch-text" style="color: #fff;">
 				<div class="row ocultar">
-					<div style="font-size: 30px;">
-						Pasión por...
-					</div>
-					
+					Pasión por...
 					<div class="ocultar" style="margin-left: 30px;">
 						<span class="cd-words-wrapper text-color">
 							<b class="is-visible"> DISTRIBUIR.</b>
@@ -249,9 +246,9 @@
 
 					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="2.7s">
 						<div class="service-content text-center">
-							<span class="service-icon icon-pentagon"><i class="fas fa-project-diagram"></i></span>
+							<span class="service-icon icon-pentagon"><i class="fas fa-cubes"></i></span>
 							<h3>ESKEMA</h3>
-							<p>Tu producto en su mejor versión; reempaque, reetiquetado y armado de kits.</p>
+							<p>Armamos Kits, Re-Etiquetado y Reempaque</p>
 						</div>
 					</div>
 
@@ -294,6 +291,7 @@
 								<li><a href="#" data-filter=".wordpress">Wavs</a></li>
 								<li><a href="#" data-filter=".wordpress">Eskema</a></li>
 								<li><a href="#" data-filter=".wordpress">Recicla-T</a></li>
+
 							</ul>
 						</div>
 					</div>
