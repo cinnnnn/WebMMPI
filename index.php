@@ -130,8 +130,10 @@
 			<div class="container">
 				<h2 class="cd-headline clip is-full-width mb-4 text-center switch-text" style="color: #fff;">
 					<div class="row ocultar">
-						Pasión por...
-						<div class="ocultar" style="margin-left: 30px;">
+						<div style="font-size: 30px;">
+							Pasión por...
+						</div>	 
+						<div class="ocultar" style="margin-left: 30px; font-size: 30px;">
 							<span class="cd-words-wrapper text-color">
 								<b class="is-visible"> DISTRIBUIR.</b>
 								<b> CONSTRUIR.</b>
