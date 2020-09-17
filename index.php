@@ -143,7 +143,7 @@
 						</div>	 
 					</div>
 					<div class="mostrar">
-						<span class="text-color" style="font-size: 35px;">PASIÓN POR... COMERCIALIZAR</span>
+						<span class="text-color" style="font-size: 30px;">PASIÓN POR... COMERCIALIZAR</span>
 					</div>
 				</h2>
 			</div>
