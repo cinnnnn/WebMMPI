@@ -176,7 +176,7 @@
 					</div>
 				</div>
 				<div class="row">
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".5s">
+					<div class="col-sm-3 wow fadeInDown text-center" data-wow-delay=".5s">
 						<div class="service-content text-center">
 							<a href="http://adekua.mx" target="_blank"><span class="service-icon icon-pentagon"><i class="fas fa-home"></i></span></a>
 							<h3>ADEKUA</h3>
@@ -184,7 +184,7 @@
 						</div>
 					</div>
 					<!--/ End first service -->
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay=".8s">
+					<div class="col-sm-3 wow fadeInDown text-center" data-wow-delay=".8s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-chart-line"></i></span>
 							<h3>BETTER MARKET</h3>
@@ -192,7 +192,7 @@
 						</div>
 					</div>
 					<!--/ End Second service -->
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.1s">
+					<div class="col-sm-3 wow fadeInDown text-center" data-wow-delay="1.1s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-clipboard-check"></i></span>
 							<h3>CONSIGNA</h3>
@@ -200,35 +200,35 @@
 						</div>
 					</div>
 					<!--/ End Third service -->
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="1.7s">
+					<div class="col-sm-3 wow fadeInDown text-center" data-wow-delay="1.7s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-globe-americas"></i></span>
 							<h3>GLOBAL TRADER</h3>
 							<p>Cualquier origen, cualquier destino, tu producto en manos de tus clientes.</p>
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="2.1s">
+					<div class="col-sm-3 wow fadeInDown text-center" data-wow-delay="2.1s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="far fa-lightbulb"></i></span>
 							<h3>INVENTA</h3>
 							<p>Desarrollamos productos funcionales.</p>
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="2.4s">
+					<div class="col-sm-3 wow fadeInDown text-center" data-wow-delay="2.4s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-rss"></i></span>
 							<h3>WAVS</h3>
 							<p>Wireless audio + video systems.</p>
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="2.7s">
+					<div class="col-sm-3 wow fadeInDown text-center" data-wow-delay="2.7s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-cubes"></i></span>
 							<h3>ESKEMA</h3>
 							<p>Armamos Kits, Re-Etiquetado y Reempaque</p>
 						</div>
 					</div>
-					<div class="col-md-3 col-sm-3 wow fadeInDown" data-wow-delay="3.1s">
+					<div class="col-sm-3 wow fadeInDown text-center" data-wow-delay="3.1s">
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-recycle"></i></span>
 							<h3>RECICLA-T</h3>
