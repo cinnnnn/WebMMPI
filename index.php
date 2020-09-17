@@ -11,11 +11,7 @@
 	<!-- ** Plugins Needed for the Project ** -->
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
-	<link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
-  	<link rel="stylesheet" href="plugins/counto/animate.css">
-  	<link rel="stylesheet" href="plugins/aos/aos.css">
 	<link rel="stylesheet" href="plugins/owl/owl.theme.css">
-  	<link rel="stylesheet" href="plugins/magnific-popup/magnific-popup.css">
   	<link rel="stylesheet" href="plugins/animated-text/animated-text.css">
 	<link rel="stylesheet" href="plugins/flex-slider/flexslider.css">
 	<link rel="stylesheet" href="plugins/cd-hero/cd-hero.css">
@@ -381,40 +377,30 @@
 			</div><!-- Container end -->
 		</section><!-- Portfolio end -->
 		<!-- Counter Strat -->
-		<section class="ts_counter p-0">
-			<div class="container-fluid">
-				<div class="row facts-wrapper wow fadeInLeft text-center">
-					<div class="facts one col-md-3 col-sm-6">
-						<span class="facts-icon"><i class="fa fa-user"></i></span>
-						<div class="facts-num">
-							<span class="counter">1200</span>
-						</div>
-						<h3>Clients</h3>
+		<section class="ts_counter p-0" style="background-color: black; height: 200px;">
+				<div class="row" style="margin-left: 10px">
+					<div class="col-md" style="margin-top: 80px;">
+						<img src="images/clients/client1.png" alt="client">
 					</div>
-					<div class="facts two col-md-3 col-sm-6">
-						<span class="facts-icon"><i class="fa fa-institution"></i></span>
-						<div class="facts-num">
-							<span class="counter">1277</span>
-						</div>
-						<h3>Item Sold</h3>
+					<div class="col-md" style="margin-top: 80px;">
+						<img src="images/clients/client1.png" alt="client">
 					</div>
-					<div class="facts three col-md-3 col-sm-6">
-						<span class="facts-icon"><i class="fa fa-suitcase"></i></span>
-						<div class="facts-num">
-							<span class="counter">869</span>
-						</div>
-						<h3>Projects</h3>
+					<div class="col-md" style="margin-top: 80px;">
+						<img src="images/clients/client1.png" alt="client">
 					</div>
-					<div class="facts four col-md-3 col-sm-6">
-						<span class="facts-icon"><i class="fa fa-trophy"></i></span>
-						<div class="facts-num">
-							<span class="counter">76</span>
-						</div>
-						<h3>Awwards</h3>
+					<div class="col-md" style="margin-top: 80px;">
+						<img src="images/clients/client1.png" alt="client">
+					</div>
+					<div class="col-md" style="margin-top: 80px;">
+						<img src="images/clients/client1.png" alt="client">
+					</div>
+					<div class="col-md" style="margin-top: 80px;">
+						<img src="images/clients/client1.png" alt="client">
+					</div>
+					<div class="col-md" style="margin-top: 80px;">
+						<img src="images/clients/client1.png" alt="client">
 					</div>
 				</div>
-			</div>
-			<!--/ Container end -->
 		</section>
 		<!--/ Counter end -->
 		<!-- Testimonial start-->
@@ -594,14 +580,7 @@
 	<script src="plugins/jQuery/jquery.min.js"></script>
 	<!-- Bootstrap JS -->
 	<script src="plugins/bootstrap/bootstrap.min.js"></script>
-	<script src="plugins/aos/aos.js"></script>
-	<script src="plugins/owl-carousel/owl.carousel.min.js"></script>
-	<script type="text/javascript" src="plugins/owl/owl.carousel.js"></script>
-	<script src="plugins/shuffle/shuffle.min.js"></script>
-	<script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
 	<script src="plugins/animated-text/animated-text.js"></script>
-	<script src="plugins/counto/apear.js"></script>
-	<script src="plugins/counto/counTo.js"></script>
 	<script type="text/javascript" src="plugins/wow.min.js"></script>
 	<!-- Style Switcher -->
 	<script type="text/javascript" src="plugins/style-switcher.js"></script>
