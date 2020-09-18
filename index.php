@@ -178,7 +178,7 @@
 						<div class="service-content text-center">
 							<a href="http://adekua.mx" target="_blank"><span class="service-icon icon-pentagon"><i class="fas fa-home"></i></span></a>
 							<h3>ADEKUA</h3>
-							<p>Ampliación, remodelación y construcción de tu inmbueble ideal.</p>
+							<p>Ampliación, remodelación y construcción de tu espacio ideal.</p>
 						</div>
 					</div>
 					<!--/ End first service -->
@@ -194,7 +194,7 @@
 						<div class="service-content text-center">
 							<span class="service-icon icon-pentagon"><i class="fas fa-clipboard-check"></i></span>
 							<h3>CONSIGNA</h3>
-							<p>Siempre surtido; paga hasta su consumo.</p>
+							<p>¡Siempre surtido y pagas hasta su uso!</p>
 						</div>
 					</div>
 					<!--/ End Third service -->
