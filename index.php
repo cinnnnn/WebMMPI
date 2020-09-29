@@ -45,6 +45,8 @@
 	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon/favicon-144x144.png">
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon/favicon-72x72.png">
 	<link rel="apple-touch-icon-precomposed" href="img/favicon/favicon-54x54.png">
+	<!-- Google Captcha -->
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <body>
 	<div class="body-inner" id="home">
@@ -472,7 +474,7 @@
 				</div>
 				<div class="row">
 					<div class="col-md-4">
-						<form id="contact-form" action="mail.php" method="post" role="form">
+						<form id="contact-form" action="mail.php" method="post" role="form" onsubmit="SubmitEmailForm(event)">
 							<div class="form-group">
 								<label>Nombre completo</label>
 								<input class="form-control" name="name" placeholder="" type="text" required>
@@ -489,6 +491,8 @@
 								<label>¿En qué te podemos ayudar?</label>
 								<textarea class="form-control" name="message"  placeholder="" rows="4" required></textarea>
 							</div>
+							<div class="g-recaptcha" data-sitekey="6LeZmNEZAAAAACLgDS8ls2UlXfc2ci4ymr2voAVX"></div>
+
 							<div class="text-right"><br>
 								<button class="btn btn-primary solid blank" name="submit" type="submit">Enviar mensaje</button>
 							</div>
@@ -626,6 +630,18 @@
 			});
         });
 	</script>
+	<script>
+      function SubmitEmailForm(e) {
+        var response = grecaptcha.getResponse();
+
+        if(response.length == 0){
+
+        e.preventDefault();
+            alert("Captcha no verificado");
+          return false;
+        } 
+      }
+  </script>
 </body>
 
 </html>
