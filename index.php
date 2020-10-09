@@ -258,8 +258,8 @@
 						<div class="isotope-nav" data-isotope-nav="isotope">
 							<ul>
 								<li><a href="#" class="active" data-filter="*">Favoritos</a></li>
-								<li><a href="#" data-filter=".web-design">Adekua</a></li>
-								<li><a href="#" data-filter=".development">Better Market</a></li>
+								<li><a href="#" data-filter=".adekua">Adekua</a></li>
+								<li><a href="#" data-filter=".better">Better Market</a></li>
 								<li><a href="#" data-filter=".joomla">Consigna</a></li>
 								<li><a href="#" data-filter=".wordpress">Global Trader</a></li>
 								<li><a href="#" data-filter=".wordpress">Inventa</a></li>
@@ -274,7 +274,7 @@
 			</div>
 			<div class="container-fluid">
 				<div class="row isotope" id="isotope">
-					<div class="col-sm-3 web-design isotope-item">
+					<div class="col-sm-3 adekua isotope-item">
 						<div class="grid">
 							<figure class="m-0 effect-oscar">
 								<img src="images/portfolio/portfolio1.jpg" alt="">
@@ -287,27 +287,27 @@
 							</figure>
 						</div>
 					</div><!-- Isotope item end -->
-					<div class="col-sm-3 development isotope-item">
+					<div class="col-sm-3 better isotope-item">
 						<div class="grid">
 							<figure class="m-0 effect-oscar">
-								<img src="images/portfolio/portfolio2.jpg" alt="">
+								<img src="images/portfolio/better1.png" alt="">
 								<figcaption>
-									<h3>Easy to Lanunch</h3>
+									<h3>Carritos de Golf</h3>
 									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/portfolio-bg2.jpg"><i
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/better1.png"><i
 											class="fa fa-search"></i></a>
 								</figcaption>
 							</figure>
 						</div>
 					</div><!-- Isotope item end -->
-					<div class="col-sm-3 joomla isotope-item">
+					<div class="col-sm-3 better isotope-item">
 						<div class="grid">
 							<figure class="m-0 effect-oscar">
-								<img src="images/portfolio/portfolio3.jpg" alt="">
+								<img src="images/portfolio/hornosbetter1.png" alt="">
 								<figcaption>
-									<h3>Your Business</h3>
+									<h3>Hornos de leña italianos</h3>
 									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/portfolio-bg3.jpg"><i
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/hornosbetter1.png"><i
 											class="fa fa-search"></i></a>
 								</figcaption>
 							</figure>
