@@ -247,7 +247,7 @@
 				<div class="row">
 					<div class="col-md-12 heading">
 						<span class="title-icon classic"><i class="fa fa-suitcase"></i></span>
-						<h2 class="title classic">Proyectos Entregados</h2>
+						<h2 class="title classic">Proyectos Hechos</h2>
 					</div>
 				</div> <!-- Title row end -->
 				<br>
@@ -257,15 +257,15 @@
 					<div class="col-12">
 						<div class="isotope-nav" data-isotope-nav="isotope">
 							<ul>
-								<li><a href="#" class="active" data-filter="*">Favoritos</a></li>
+								<!--li><a href="#" class="active" data-filter=".favoritos">Favoritos</a></li-->
 								<li><a href="#" data-filter=".adekua">Adekua</a></li>
 								<li><a href="#" data-filter=".better">Better Market</a></li>
-								<li><a href="#" data-filter=".joomla">Consigna</a></li>
-								<li><a href="#" data-filter=".wordpress">Global Trader</a></li>
-								<li><a href="#" data-filter=".wordpress">Inventa</a></li>
-								<li><a href="#" data-filter=".wordpress">Wavs</a></li>
-								<li><a href="#" data-filter=".wordpress">Eskema</a></li>
-								<li><a href="#" data-filter=".wordpress">Recicla-T</a></li>
+								<li><a href="#" data-filter=".consigna">Consigna</a></li>
+								<li><a href="#" data-filter=".global">Global Trader</a></li>
+								<li><a href="#" data-filter=".inventa">Inventa</a></li>
+								<li><a href="#" data-filter=".wavs">Wavs</a></li>
+								<li><a href="#" data-filter=".eskema">Eskema</a></li>
+								<li><a href="#" data-filter=".recicla">Recicla-T</a></li>
 
 							</ul>
 						</div>
@@ -274,19 +274,75 @@
 			</div>
 			<div class="container-fluid">
 				<div class="row isotope" id="isotope">
+
+					<!-- ADEKUA -->
 					<div class="col-sm-3 adekua isotope-item">
 						<div class="grid">
 							<figure class="m-0 effect-oscar">
-								<img src="images/portfolio/portfolio1.jpg" alt="">
+								<img src="images/portfolio/adekua1.png" alt="">
 								<figcaption>
-									<h3>Startup Business</h3>
+									<h3>División industrial</h3>
 									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/portfolio-bg1.jpg"><i
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/adekua1.png"><i
 											class="fa fa-search"></i></a>
 								</figcaption>
 							</figure>
 						</div>
 					</div><!-- Isotope item end -->
+					<div class="col-sm-3 adekua isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/adekua2.png" alt="">
+								<figcaption>
+									<h3>Comercial (Antes)</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/adekua2.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 adekua isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/adekua3.png" alt="">
+								<figcaption>
+									<h3>Comercial (Despues)</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/adekua3.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 adekua isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/adekua4.png" alt="">
+								<figcaption>
+									<h3>auditorios</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/adekua4.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 adekua isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/adekua5.png" alt="">
+								<figcaption>
+									<h3>Hogar</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/adekua5.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+
+					<!-- BETTER MARKET -->
 					<div class="col-sm-3 better isotope-item">
 						<div class="grid">
 							<figure class="m-0 effect-oscar">
@@ -313,66 +369,322 @@
 							</figure>
 						</div>
 					</div><!-- Isotope item end -->
-					<div class="col-sm-3 wordpress isotope-item">
+					<div class="col-sm-3 better isotope-item">
 						<div class="grid">
 							<figure class="m-0 effect-oscar">
-								<img src="images/portfolio/portfolio4.jpg" alt="">
+								<img src="images/portfolio/better3.jpg" alt="">
 								<figcaption>
-									<h3>Prego Match</h3>
+									<h3>Papeles y cartulinas para Artes Gráficas</h3>
 									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/portfolio-bg4.jpg"><i
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/better3.jpg"><i
 											class="fa fa-search"></i></a>
 								</figcaption>
 							</figure>
 						</div>
 					</div><!-- Isotope item end -->
-					<div class="col-sm-3 joomla isotope-item">
+					<div class="col-sm-3 better isotope-item">
 						<div class="grid">
 							<figure class="m-0 effect-oscar">
-								<img src="images/portfolio/portfolio5.jpg" alt="">
+								<img src="images/portfolio/better4.jpg" alt="">
 								<figcaption>
-									<h3>Fashion Brand</h3>
+									<h3>Papeles y cartulinas para Artes Gráficas</h3>
 									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/portfolio-bg5.jpg"><i
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/better4.jpg"><i
 											class="fa fa-search"></i></a>
 								</figcaption>
 							</figure>
 						</div>
 					</div><!-- Isotope item end -->
-					<div class="col-sm-3 development isotope-item">
+
+					<!-- ESKEMA -->
+					<div class="col-sm-3 eskema isotope-item">
 						<div class="grid">
 							<figure class="m-0 effect-oscar">
-								<img src="images/portfolio/portfolio6.jpg" alt="">
+								<img src="images/portfolio/eskema1.png" alt="">
 								<figcaption>
-									<h3>The Insidage</h3>
+									<h3>Re-empaque a medida</h3>
 									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/portfolio-bg1.jpg"><i
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="imaimages/portfolio/eskema1.png"><i
 											class="fa fa-search"></i></a>
 								</figcaption>
 							</figure>
 						</div>
 					</div><!-- Isotope item end -->
-					<div class="col-sm-3 development isotope-item">
+					<div class="col-sm-3 eskema isotope-item">
 						<div class="grid">
 							<figure class="m-0 effect-oscar">
-								<img src="images/portfolio/portfolio7.jpg" alt="">
+								<img src="images/portfolio/eskema2.png" alt="">
 								<figcaption>
-									<h3>Light Carpet</h3>
+									<h3>Kitteo</h3>
 									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/portfolio-bg2.jpg"><i
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="imaimages/portfolio/eskema2.png"><i
 											class="fa fa-search"></i></a>
 								</figcaption>
 							</figure>
 						</div>
 					</div><!-- Isotope item end -->
-					<div class="col-sm-3 development isotope-item">
+					<div class="col-sm-3 eskema isotope-item">
 						<div class="grid">
 							<figure class="m-0 effect-oscar">
-								<img src="images/portfolio/portfolio8.jpg" alt="">
+								<img src="images/portfolio/eskema3.png" alt="">
 								<figcaption>
-									<h3>Amazing Keyboard</h3>
+									<h3>Kitteo</h3>
 									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
-									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/portfolio-bg3.jpg"><i class="fa fa-search"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="imaimages/portfolio/eskema3.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 eskema isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/eskema4.png" alt="">
+								<figcaption>
+									<h3>Kitteo</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="imaimages/portfolio/eskema4.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 eskema isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/eskema5.png" alt="">
+								<figcaption>
+									<h3>Kitteo robótica</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="imaimages/portfolio/eskema5.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 eskema isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/eskema6.png" alt="">
+								<figcaption>
+									<h3>Reetiquetado</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="imaimages/portfolio/eskema6.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 eskema isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/eskema7.png" alt="">
+								<figcaption>
+									<h3>Reetiquetado</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="imaimages/portfolio/eskema7.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+
+					<!-- RECICLA -->
+					<div class="col-sm-3 recicla isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/recicla1.png" alt="">
+								<figcaption>
+									<h3>Recicla-T (Antes)</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/recicla1.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 recicla isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/recicla2.png" alt="">
+								<figcaption>
+									<h3>Recicla-T (Despues)</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/recicla2.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+
+					<!-- wavs -->
+					<div class="col-sm-3 wavs isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/wavs1.png" alt="">
+								<figcaption>
+									<h3>Gaming</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/wavs1.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 wavs isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/wavs2.png" alt="">
+								<figcaption>
+									<h3>Gaming</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/wavs2.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 wavs isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/wavs3.png" alt="">
+								<figcaption>
+									<h3>Gaming</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/wavs3.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 wavs isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/wavs4.png" alt="">
+								<figcaption>
+									<h3>simulador 3 pantallas</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/wavs4.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 wavs isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/wavs5.png" alt="">
+								<figcaption>
+									<h3>gaming móvil</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/wavs5.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 wavs isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/wavs6.png" alt="">
+								<figcaption>
+									<h3>salas de videoconferencia</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/wavs6.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 wavs isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/wavs7.png" alt="">
+								<figcaption>
+									<h3>auditorios</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/wavs7.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 wavs isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/wavs8.png" alt="">
+								<figcaption>
+									<h3> videowall</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/wavs8.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+
+					<!-- INVENTA -->
+					<div class="col-sm-3 inventa isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/inventa1.png" alt="">
+								<figcaption>
+									<h3>Comercial</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/inventa1.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 inventa isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/inventa2.png" alt="">
+								<figcaption>
+									<h3>Escritorio Abatible</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/inventa2.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 inventa isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/inventa3.png" alt="">
+								<figcaption>
+									<h3> Tableros de Indicadores</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/inventa3.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 inventa isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/inventa4.png" alt="">
+								<figcaption>
+									<h3> Exhibidores</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/inventa4.png"><i
+											class="fa fa-search"></i></a>
+								</figcaption>
+							</figure>
+						</div>
+					</div><!-- Isotope item end -->
+					<div class="col-sm-3 inventa isotope-item">
+						<div class="grid">
+							<figure class="m-0 effect-oscar">
+								<img src="images/portfolio/inventa5.png" alt="">
+								<figcaption>
+									<h3> Señalización con LED</h3>
+									<a class="link icon-pentagon" href="portfolio-item.html"><i class="fa fa-link"></i></a>
+									<a class="view icon-pentagon" data-rel="prettyPhoto" href="images/portfolio/inventa5.png"><i
+											class="fa fa-search"></i></a>
 								</figcaption>
 							</figure>
 						</div>
@@ -502,7 +814,7 @@
 						<div class="row">
 							<div class="contact-info ">
 								<br>
-								<p><i class="fas fa-flag"></i>México</p>
+								<p><i class="fas fa-flag"></i>CeDi México</p>
 								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
 								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
 								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
@@ -512,10 +824,10 @@
 						<div class="row">
 							<div class="contact-info ">
 								<br>
-								<p><i class="fas fa-flag"></i>Ecuador</p>
-								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
-								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
-								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
+								<p><i class="fas fa-flag"></i>CeDi Ecuador</p>
+								<p><i class="fa fa-home info"></i> Calle Luis Mideros S2-208 y Calle del Establo, Edif. Urban Tower Piso 4, Oficina 403, Cumbayá, EC170904, Quito, Ecuador </p>
+								<p><i class="fa fa-phone info"></i> +(000) 000-0000 </p>
+								<p><i class="fa fa-envelope-o info"></i> correo@sitio.com</p>
 								<p><i class="fa fa-globe info"></i> www.mmpi.mx</p>
 							</div>
 						</div>
@@ -524,20 +836,20 @@
 						<div class="row">
 							<div class="contact-info ">
 								<br>
-								<p><i class="fas fa-flag"></i>Estados Unidos</p>
-								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
-								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
-								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
+								<p><i class="fas fa-flag"></i>CeDi Estados Unidos</p>
+								<p><i class="fa fa-home info"></i> 10358 Juniper Creek Dr, 38002 Lakeland, Tennessee, Estados Unidos </p>
+								<p><i class="fa fa-phone info"></i> +(901) 336-6272</p>
+								<p><i class="fa fa-envelope-o info"></i> correo@sitio.com</p>
 								<p><i class="fa fa-globe info"></i> www.mmpi.mx</p>
 							</div>
 						</div>
 						<div class="row">
 							<div class="contact-info ">
 								<br>
-								<p><i class="fas fa-flag"></i>Guatemala</p>
-								<p><i class="fa fa-home info"></i> Calz. José Guadalupe Gallo #8592, El Campanario, 45609 Zapopan, Jal., Mexico </p>
-								<p><i class="fa fa-phone info"></i> +(785) 238-4131 </p>
-								<p><i class="fa fa-envelope-o info"></i> info@bizcraft.com</p>
+								<p><i class="fas fa-flag"></i>CeDi Honduras</p>
+								<p><i class="fa fa-home info"></i> Av. Máximo Jerez #601 y Calle Las Damas, Tegucigalpa, Honduras </p>
+								<p><i class="fa fa-phone info"></i> +(222) 048-88 </p>
+								<p><i class="fa fa-envelope-o info"></i> correo@sitio.com</p>
 								<p><i class="fa fa-globe info"></i> www.mmpi.mx</p>
 							</div>
 						</div>
