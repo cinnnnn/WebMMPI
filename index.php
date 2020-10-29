@@ -156,7 +156,7 @@
 					<div class="col-sm"><b>ESCOLAR</b></div><span style="margin-top: -5px;"><b>.</b></span>
 					<div class="col-sm"><b>HOGAR</b></div><span style="margin-top: -5px;"><b>.</b></span>
 					<div class="col-sm"><b>INDUSTRIAL</b></div><span style="margin-top: -5px;"><b>.</b></span>
-					<div class="col-sm"><b>OFICINA</b></div>
+					<div class="col-sm"><b>OFICINAS</b></div>
 				</div>
 				<div style="background-color: #959595; color: white;" class="row text-center mostrar">
 					<div class="col-xs text-left" style="display: inline; margin-right: 8px; "><b>ATENDEMOS SECTOR: </b></div>
