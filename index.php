@@ -133,14 +133,14 @@
 						</div>	 
 						<div class="ocultar" style="margin-left: 30px; font-size: 30px;">
 							<span class="cd-words-wrapper text-color">
-								<b class="is-visible"> DISTRIBUIR.</b>
-								<b> CONSTRUIR.</b>
-								<b> CONFIGURAR.</b>
-								<b> CREAR.</b>
-								<b> REETIQUETAR.</b>
+								<b class="is-visible"> REMODELAR.</b>
+								<b> VENDER.</b>
 								<b> ABASTECER.</b>
+								<b> REEMPACAR.</b>
 								<b> COMERCIALIZAR.</b>
+								<b> INVENTAR.</b>
 								<b> RECICLAR.</b>
+								<b> TECNOLOGIA WIRELESS.</b>
 							</span>
 						</div>	 
 					</div>
