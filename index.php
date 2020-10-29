@@ -247,7 +247,7 @@
 				<div class="row">
 					<div class="col-md-12 heading">
 						<span class="title-icon classic"><i class="fa fa-suitcase"></i></span>
-						<h2 class="title classic">Proyectos Hechos</h2>
+						<h2 class="title classic">Nuestros Clientes</h2>
 					</div>
 				</div> <!-- Title row end -->
 				<br>
