@@ -124,7 +124,7 @@
 		</div>
 		<!--/ Header end -->
 		<!-- Slider start -->
-		<section class="section banner" style="padding-top: 120px; padding-bottom: 0px; background-color: #3076b0;" id="home">
+		<section class="section banner" style="padding-top: 90px; padding-bottom: 0px; background-color: #3076b0;" id="home">
 			<div class="container">
 				<h2 class="cd-headline clip is-full-width mb-4 text-center switch-text" style="color: #fff;">
 					<div class="row ocultar">
@@ -150,7 +150,7 @@
 				</h2>
 			</div>
 			<div>
-				<div style="background-color: #959595; color: white;" class="row text-center ocultar">
+				<div style="background-color: #959595; color: white; height: 50px; padding-top: 12px;" class="row text-center ocultar">
 					<div class="col-sm text-left" style="margin-left: 20px"><b> ATENDEMOS SECTOR:</b></div>
 					<div class="col-sm"><b>COMERCIAL</b></div><span style="margin-top: -5px;"><b>.</b></span>
 					<div class="col-sm"><b>ESCOLAR</b></div><span style="margin-top: -5px;"><b>.</b></span>
